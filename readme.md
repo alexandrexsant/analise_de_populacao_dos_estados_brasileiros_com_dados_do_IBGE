@@ -21,7 +21,7 @@ Este projeto realiza uma análise exploratória dos dados populacionais dos esta
 2. Instale as dependências necessárias com:
    pip install pandas matplotlib seaborn
 3. Execute o script Python e visualize os gráficos gerados.
-
+## Imagens de exemmplo da analise exploratoria
 ![alt text](image.png)
 
 ![alt text](image-1.png)

@@ -22,6 +22,13 @@ Este projeto realiza uma análise exploratória dos dados populacionais dos esta
    pip install pandas matplotlib seaborn
 3. Execute o script Python e visualize os gráficos gerados.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 Projeto desenvolvido para exploração de dados do IBGE.
 
